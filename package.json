@@ -2,7 +2,7 @@
   "name": "monsters",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maximus06.github.io/monsters-robots",
+  "homepage": "https://maximus06.github.io/monster-robots/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
